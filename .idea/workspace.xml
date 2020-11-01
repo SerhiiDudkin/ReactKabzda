@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="611a4fb9-4b28-43dc-97b4-deb1427e7fdb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i13CDEucww6tvYZadfUcosU3Uu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Dialogs/Message" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile\ProfileInfo" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Navbar" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Header" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Dialogs\Message" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Dialogs\Dialog" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile\ProfileInfo" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Settigns" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\News" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="611a4fb9-4b28-43dc-97b4-deb1427e7fdb" name="Default Changelist" comment="" />
+      <created>1601061141309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601061141309</updated>
+      <workItem from="1601061142442" duration="1238000" />
+      <workItem from="1601102195066" duration="8046000" />
+      <workItem from="1601144374824" duration="2750000" />
+      <workItem from="1601230365540" duration="14346000" />
+      <workItem from="1601482751455" duration="8706000" />
+      <workItem from="1601496942216" duration="386000" />
+      <workItem from="1601577914918" duration="9672000" />
+      <workItem from="1601827608973" duration="13078000" />
+      <workItem from="1602181036898" duration="5150000" />
+      <workItem from="1602332152298" duration="23776000" />
+      <workItem from="1602855132919" duration="9995000" />
+      <workItem from="1603214709080" duration="600000" />
+      <workItem from="1603740846055" duration="1797000" />
+      <workItem from="1603742665242" duration="23605000" />
+      <workItem from="1603908619178" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="266" key="#ESLint" timestamp="1601316430248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="266" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1601316430248" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603002063586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603002063586" />
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1603741258607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
+    <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1603741258607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
+    <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1603741258606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189111" />
+    <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603741258606" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1603741258607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
+    <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
+    <state x="348" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601488757131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601488757131" />
+  </component>
+</project>
