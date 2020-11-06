@@ -10,6 +10,10 @@ import News from "./Components/News/News";
 import Settigns from "./Components/Settigns/Settigns";
 import {addPost} from "./redux/state";
 
+
+
+
+
 const App = (props) => {
 
     return (
@@ -19,12 +23,11 @@ const App = (props) => {
             <div className='app-wrapper-content'>
                 <Route path='/dialogs'
                        render={() => <Dialogs
-                           state={props.state.dialogsPage}/>}/>
+                           store={props.store}/>}/>
                 <Route path='/profile'
                        render={() => <Profile
                            profilePage={props.state.profilePage}
-                           addPost={props.addPost}
-                           updateNewPostText={props.updateNewPostText}/>}/>
+                           dispatch={props.dispatch}/>}/>
                 <Route path='/music' render={() => <Music/>}/>
                 <Route path='/news' render={() => <News/>}/>
                 <Route path='/settigns' render={() => <Settigns/>}/>
