@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="611a4fb9-4b28-43dc-97b4-deb1427e7fdb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1i13CDEucww6tvYZadfUcosU3Uu" />
@@ -35,8 +32,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.last.introduce.type" value="CONST" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Dialogs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,22 +41,23 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile\ProfileInfo" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Navbar" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Header" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Dialogs" />
+      <recent name="$PROJECT_DIR$/src/Components/Profile/MyPosts/Post" />
       <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Dialogs\Message" />
       <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Dialogs\Dialog" />
       <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile\ProfileInfo" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Settigns" />
-      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\News" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Profile/MyPosts" />
+      <recent name="$PROJECT_DIR$/src/Components/Profile/MyPosts/Post" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile\ProfileInfo" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Profile" />
+      <recent name="D:\reactkabzdakakprosto\project\01-firstproject\react-kabzda-1\src\Components\Navbar" />
     </key>
   </component>
   <component name="RunManager">
@@ -113,14 +111,26 @@
       <workItem from="1604610143800" duration="1789000" />
       <workItem from="1604611967210" duration="599000" />
       <workItem from="1604696326006" duration="184000" />
+      <workItem from="1604802746927" duration="1268000" />
+      <workItem from="1605301614424" duration="7269000" />
+      <workItem from="1605463845969" duration="6153000" />
+      <workItem from="1605546607700" duration="7441000" />
+      <workItem from="1605721928393" duration="6017000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="553" y="266" key="#ESLint" timestamp="1601316430248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="553" y="266" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1601316430248" />
+    <state x="312" y="79" width="732" height="644" key="#Inspections" timestamp="1605465461310">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="312" y="79" width="732" height="644" key="#Inspections/0.27.1366.741@0.27.1366.741" timestamp="1605465461310" />
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603002063586">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -129,29 +139,47 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="453" y="98" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1604696506431" />
-    <state width="1322" height="172" key="GridCell.Tab.0.bottom" timestamp="1603741258607">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1605722076931">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
     <state width="1322" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
-    <state width="1322" height="172" key="GridCell.Tab.0.center" timestamp="1603741258607">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605722076931" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1605469005065" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1605554432825" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1605722076929">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
     <state width="1322" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
-    <state width="1322" height="172" key="GridCell.Tab.0.left" timestamp="1603741258606">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605722076929" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1605469005064" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1605554432824" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1605722076928">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189111" />
     <state width="1322" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603741258606" />
-    <state width="1322" height="172" key="GridCell.Tab.0.right" timestamp="1603741258607">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605722076928" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1605469005063" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1605554432824" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1605722076931">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1080@0.0.1366.728" timestamp="1602332189112" />
     <state width="1322" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603741258607" />
-    <state x="348" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601488757131">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605722076931" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1605469005064" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1605554432825" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605721961384">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" key="SettingsEditor/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605721961384" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1605464350801" />
+    <state x="348" y="77" width="672" height="691" key="search.everywhere.popup" timestamp="1605722883341">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="348" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601488757131" />
+    <state x="348" y="77" width="672" height="691" key="search.everywhere.popup/0.27.1366.741/1366.0.1920.1080@0.27.1366.741" timestamp="1605722883341" />
   </component>
 </project>
