@@ -10,26 +10,37 @@ import UsersContainer from "./Components/Users/UsersContainer";
 import ProfileContainer from "./Components/Profile/ProfileContainer";
 import HeaderContainer from "./Components/Header/HeaderContainer";
 import LoginPage from "./Components/Login/Login";
+import {connect} from "react-redux";
+import {getAuthUserData} from "./redux/auth-reducer";
+import {withRouter} from "react-router-dom";
+import {compose} from "redux";
 
-const App = () => {
-    return (
-        <div className='app-wrapper'>
-            <HeaderContainer/>
-            <Navbar/>
-            <div className='app-wrapper-content'>
-                <Route path='/dialogs'
-                       render={() => <DialogsContainer />}/>
-                <Route path='/profile/:userId?'
-                       render={() => <ProfileContainer />}/>
-                <Route path='/users'
-                       render={() => <UsersContainer />}/>
-                <Route path='/music' render={() => <Music/>}/>
-                <Route path='/news' render={() => <News/>}/>
-                <Route path='/settigns' render={() => <Settigns/>}/>
-                <Route path='/login' render={() => <LoginPage/>}/>
+class App extends React.Component {
+    componentDidMount() {
+        this.props.getAuthUserData();
+    }
+    render() {
+        return (
+            <div className='app-wrapper'>
+                <HeaderContainer/>
+                <Navbar/>
+                <div className='app-wrapper-content'>
+                    <Route path='/dialogs'
+                           render={() => <DialogsContainer/>}/>
+                    <Route path='/profile/:userId?'
+                           render={() => <ProfileContainer/>}/>
+                    <Route path='/users'
+                           render={() => <UsersContainer/>}/>
+                    <Route path='/music' render={() => <Music/>}/>
+                    <Route path='/news' render={() => <News/>}/>
+                    <Route path='/settigns' render={() => <Settigns/>}/>
+                    <Route path='/login' render={() => <LoginPage/>}/>
+                </div>
             </div>
-        </div>
-    );
-};
+        );
+    }
+}
 
-export default App;
+export default compose(
+    withRouter,
+    connect (null, {getAuthUserData})) (App);
